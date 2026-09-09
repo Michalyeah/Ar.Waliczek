@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\programista\\Desktop\\18.11.2025 2AT Micha\u0142 Kula\\Licznik klikni\u0119\u0107\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A2E3F2-8434-4AA6-9ED4-DB4E2897BE24}|Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.vcxproj|C:\\Users\\programista\\Desktop\\18.11.2025 2AT Micha\u0142 Kula\\Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80A2E3F2-8434-4AA6-9ED4-DB4E2897BE24}|Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.vcxproj|solutionrelative:Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Licznik klikni\u0119\u0107.cpp",
+              "DocumentMoniker": "C:\\Users\\programista\\Desktop\\18.11.2025 2AT Micha\u0142 Kula\\Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.cpp",
+              "RelativeDocumentMoniker": "Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.cpp",
+              "ToolTip": "C:\\Users\\programista\\Desktop\\18.11.2025 2AT Micha\u0142 Kula\\Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.cpp",
+              "RelativeToolTip": "Licznik klikni\u0119\u0107\\Licznik klikni\u0119\u0107.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T09:56:22.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ZadanieNumeroUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ZadanieNumeroUno.AssemblyInfoInputs.cache
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ZadanieNumeroUno.AssemblyInfo.cs
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ZadanieNumeroUno.csproj.CoreCompileInputs.cache
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\bin\Debug\net8.0\ZadanieNumeroUno.exe
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\bin\Debug\net8.0\ZadanieNumeroUno.deps.json
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\bin\Debug\net8.0\ZadanieNumeroUno.runtimeconfig.json
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\bin\Debug\net8.0\ZadanieNumeroUno.dll
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\bin\Debug\net8.0\ZadanieNumeroUno.pdb
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ZadanieNumeroUno.dll
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\refint\ZadanieNumeroUno.dll
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ZadanieNumeroUno.pdb
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ZadanieNumeroUno.genruntimeconfig.cache
+C:\Users\programista\Documents\3AT\8.09.2026\ZadanieNumeroUno\ZadanieNumeroUno\obj\Debug\net8.0\ref\ZadanieNumeroUno.dll

@@ -1,0 +1,14 @@
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\bin\Debug\net8.0\Slowniki.exe
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\bin\Debug\net8.0\Slowniki.deps.json
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\bin\Debug\net8.0\Slowniki.runtimeconfig.json
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\bin\Debug\net8.0\Slowniki.dll
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\bin\Debug\net8.0\Slowniki.pdb
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\Slowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\Slowniki.AssemblyInfoInputs.cache
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\Slowniki.AssemblyInfo.cs
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\Slowniki.csproj.CoreCompileInputs.cache
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\Slowniki.dll
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\refint\Slowniki.dll
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\Slowniki.pdb
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\Slowniki.genruntimeconfig.cache
+C:\Users\programista\Documents\2AT\28.04.2026 Slowniki\Slowniki\Slowniki\obj\Debug\net8.0\ref\Slowniki.dll

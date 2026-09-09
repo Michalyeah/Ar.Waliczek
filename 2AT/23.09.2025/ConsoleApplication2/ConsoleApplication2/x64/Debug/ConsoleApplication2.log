@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\programista\Desktop\2AT\23.09.2025\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(12,12): warning C4101: "srednia": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\programista\Desktop\2AT\23.09.2025\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(13,12): warning C4101: "suma": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication2.vcxproj -> C:\Users\programista\Desktop\2AT\23.09.2025\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>project</title>
+  </head>
+  <body>
+    <input type="text" id="tekst">
+    <button onclick="sprawdz()">OK</button>
+      <script>
+
+        
+        function sprawdz(){
+          let funkcja = document.getElementById("tekst").value;
+          const wzor = /^([+-]?\d*)x([+-]?\d*)?$/;
+
+          let sprawdz = funkcja.match(wzor);
+          
+          let a = sprawdz[1];
+          let b = sprawdz[2];
+          let wzorr = sprawdz[0];
+          let x0 = (-b/a);
+
+          
+          
+          let tak = document.getElementById("bruh").innerHTML= a;
+          let nie = document.getElementById("sruh").innerHTML= b;
+          let dupa = document.getElementById("muh").innerHTML= wzorr;
+          let ehh = document.getElementById("guh").innerHTML= -(b) + "/" + a + " = " + x0;
+
+
+        }
+      </script>
+      <div id="bruh"></div>
+      <div id="sruh"></div>
+      <div id="muh"></div>
+      <div id="guh"></div>
+      
+  </body>
+</html>

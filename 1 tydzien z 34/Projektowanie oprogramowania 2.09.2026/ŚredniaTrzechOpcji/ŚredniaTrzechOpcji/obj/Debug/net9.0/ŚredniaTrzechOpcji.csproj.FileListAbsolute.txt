@@ -1,0 +1,14 @@
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\bin\Debug\net9.0\ŚredniaTrzechOpcji.exe
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\bin\Debug\net9.0\ŚredniaTrzechOpcji.deps.json
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\bin\Debug\net9.0\ŚredniaTrzechOpcji.runtimeconfig.json
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\bin\Debug\net9.0\ŚredniaTrzechOpcji.dll
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\bin\Debug\net9.0\ŚredniaTrzechOpcji.pdb
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ŚredniaTrzechOpcji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ŚredniaTrzechOpcji.AssemblyInfoInputs.cache
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ŚredniaTrzechOpcji.AssemblyInfo.cs
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ŚredniaTrzechOpcji.csproj.CoreCompileInputs.cache
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ŚredniaTrzechOpcji.dll
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\refint\ŚredniaTrzechOpcji.dll
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ŚredniaTrzechOpcji.pdb
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ŚredniaTrzechOpcji.genruntimeconfig.cache
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\ŚredniaTrzechOpcji\ŚredniaTrzechOpcji\obj\Debug\net9.0\ref\ŚredniaTrzechOpcji.dll

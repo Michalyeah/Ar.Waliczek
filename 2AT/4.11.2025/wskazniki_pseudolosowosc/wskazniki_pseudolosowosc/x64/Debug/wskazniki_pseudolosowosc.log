@@ -1,0 +1,3 @@
+﻿  wskazniki_pseudolosowosc.cpp
+C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki_pseudolosowosc\wskazniki_pseudolosowosc\wskazniki_pseudolosowosc.cpp(30,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  wskazniki_pseudolosowosc.vcxproj -> C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki_pseudolosowosc\x64\Debug\wskazniki_pseudolosowosc.exe

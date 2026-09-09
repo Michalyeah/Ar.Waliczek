@@ -1,0 +1,5 @@
+zbiurA = set([1,2,3,5,6,78,85,3,2])
+zbiurB = set([1,2,3,5,4,8])
+print(zbiurA.intersection(zbiurB))
+print(zbiurA.difference(zbiurB))
+print(zbiurA.union(zbiurB))

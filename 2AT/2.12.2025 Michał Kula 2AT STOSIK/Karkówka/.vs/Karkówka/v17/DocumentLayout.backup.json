@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\programista\\Desktop\\2AT\\25.11.2025\\Kark\u00F3wka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA701145-1473-434C-9F1B-F6948DCD2A07}|Kark\u00F3wka\\Kark\u00F3wka.vcxproj|C:\\Users\\programista\\Desktop\\2AT\\25.11.2025\\Kark\u00F3wka\\Kark\u00F3wka\\Kark\u00F3wka.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA701145-1473-434C-9F1B-F6948DCD2A07}|Kark\u00F3wka\\Kark\u00F3wka.vcxproj|solutionrelative:Kark\u00F3wka\\Kark\u00F3wka.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kark\u00F3wka.cpp",
+              "DocumentMoniker": "C:\\Users\\programista\\Desktop\\2AT\\25.11.2025\\Kark\u00F3wka\\Kark\u00F3wka\\Kark\u00F3wka.cpp",
+              "RelativeDocumentMoniker": "Kark\u00F3wka\\Kark\u00F3wka.cpp",
+              "ToolTip": "C:\\Users\\programista\\Desktop\\2AT\\25.11.2025\\Kark\u00F3wka\\Kark\u00F3wka\\Kark\u00F3wka.cpp",
+              "RelativeToolTip": "Kark\u00F3wka\\Kark\u00F3wka.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T08:55:28.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

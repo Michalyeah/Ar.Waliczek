@@ -1,0 +1,18 @@
+Aplikacje konsolowe - zarządzanie plikami tekstowymi, bibliotekami fstream
+
+ifstream, ofstream, fstream
+
+ifstream - in file stream - odczyt z pliku
+
+ofstream - out file stream - zapis danych do pliku
+
+fstream - odczyt i zapis
+
+Możliwe tryby pracy:
+
+ios::in - odczyt
+ios::out - zapis
+ios::ate - ustawiam kursor na końcu pliku
+ios::app - dopisywanie do pliku
+ios::trunc - nadpisywanie, jeśli plik istnieje dotychczasowa zostanie usunięta
+ios::nocreate - 

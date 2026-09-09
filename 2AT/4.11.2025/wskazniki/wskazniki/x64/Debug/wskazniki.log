@@ -1,0 +1,8 @@
+﻿  wskazniki.cpp
+C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki\wskazniki\wskazniki.cpp(11,25): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki\wskazniki\wskazniki.cpp(11,25): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki\wskazniki\wskazniki.cpp(14,29): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki\wskazniki\wskazniki.cpp(14,29): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki\wskazniki\wskazniki.cpp(15,26): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int **" do "int"
+C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki\wskazniki\wskazniki.cpp(15,26): warning C4302: "typ rzutowania": obcięcie z "int **" do "int"
+  wskazniki.vcxproj -> C:\Users\programista\Desktop\2AT\4.11.2025\wskazniki\x64\Debug\wskazniki.exe

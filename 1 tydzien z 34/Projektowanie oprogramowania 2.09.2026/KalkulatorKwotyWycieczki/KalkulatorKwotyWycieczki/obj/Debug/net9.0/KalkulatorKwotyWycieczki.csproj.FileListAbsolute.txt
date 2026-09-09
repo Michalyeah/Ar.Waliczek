@@ -1,0 +1,14 @@
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\bin\Debug\net9.0\KalkulatorKwotyWycieczki.exe
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\bin\Debug\net9.0\KalkulatorKwotyWycieczki.deps.json
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\bin\Debug\net9.0\KalkulatorKwotyWycieczki.runtimeconfig.json
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\bin\Debug\net9.0\KalkulatorKwotyWycieczki.dll
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\bin\Debug\net9.0\KalkulatorKwotyWycieczki.pdb
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\KalkulatorKwotyWycieczki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\KalkulatorKwotyWycieczki.AssemblyInfoInputs.cache
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\KalkulatorKwotyWycieczki.AssemblyInfo.cs
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\KalkulatorKwotyWycieczki.csproj.CoreCompileInputs.cache
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\KalkulatorKwotyWycieczki.dll
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\refint\KalkulatorKwotyWycieczki.dll
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\KalkulatorKwotyWycieczki.pdb
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\KalkulatorKwotyWycieczki.genruntimeconfig.cache
+C:\Users\programista\Documents\3AT\1 tydzien z 34\Projektowanie oprogramowania 2.09.2026\KalkulatorKwotyWycieczki\KalkulatorKwotyWycieczki\obj\Debug\net9.0\ref\KalkulatorKwotyWycieczki.dll

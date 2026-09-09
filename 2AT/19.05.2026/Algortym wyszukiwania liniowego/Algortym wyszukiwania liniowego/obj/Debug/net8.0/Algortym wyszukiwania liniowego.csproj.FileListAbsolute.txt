@@ -1,0 +1,14 @@
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\bin\Debug\net8.0\Algortym wyszukiwania liniowego.exe
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\bin\Debug\net8.0\Algortym wyszukiwania liniowego.deps.json
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\bin\Debug\net8.0\Algortym wyszukiwania liniowego.runtimeconfig.json
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\bin\Debug\net8.0\Algortym wyszukiwania liniowego.dll
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\bin\Debug\net8.0\Algortym wyszukiwania liniowego.pdb
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\Algortym wyszukiwania liniowego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\Algortym wyszukiwania liniowego.AssemblyInfoInputs.cache
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\Algortym wyszukiwania liniowego.AssemblyInfo.cs
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\Algortym wyszukiwania liniowego.csproj.CoreCompileInputs.cache
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\Algortym wyszukiwania liniowego.dll
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\refint\Algortym wyszukiwania liniowego.dll
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\Algortym wyszukiwania liniowego.pdb
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\Algortym wyszukiwania liniowego.genruntimeconfig.cache
+C:\Users\programista\Documents\2AT\19.05.2026\Algortym wyszukiwania liniowego\Algortym wyszukiwania liniowego\obj\Debug\net8.0\ref\Algortym wyszukiwania liniowego.dll
