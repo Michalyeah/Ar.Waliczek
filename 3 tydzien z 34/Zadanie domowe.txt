@@ -1,0 +1,8 @@
+Zadanie domowe
+
+Stos książek 
+Utwórz program wykorzystujący Stack<string> - stos
+program ma dodać 5 książek, wyśwetlić ksiązke znajdującą się na szczycie stosu, usunąć 2 książki, wyświetlić usunięte książki, sprawdzić czy stos jest pusty i wyświetlić pozostałe książki . Podzielić to na metody.
+
+Queue<string> - kolejka
+Utwórz program wykorzystujący kolejkre. Program ma utwortzyć kolejke klientów, wyświetlić tą kolejke, obsłużyć pierwszego klienta, sprawdzić kto jest pierwszy , dodać 2 nowych klientów i wyświetlić aktualną kolejke i wyświetlić liczbe kluientów
