@@ -1,0 +1,15 @@
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\bin\Debug\net9.0\Listy i STOS.exe
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\bin\Debug\net9.0\Listy i STOS.deps.json
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\bin\Debug\net9.0\Listy i STOS.runtimeconfig.json
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\bin\Debug\net9.0\Listy i STOS.dll
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\bin\Debug\net9.0\Listy i STOS.pdb
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.AssemblyInfoInputs.cache
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.AssemblyInfo.cs
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.csproj.CoreCompileInputs.cache
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.sourcelink.json
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.dll
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\refint\Listy i STOS.dll
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.pdb
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\Listy i STOS.genruntimeconfig.cache
+C:\Users\programista\Documents\3AT\Ar.Waliczek\4 tydzien z 34\23.09.2026\Listy i STOS\Listy i STOS\obj\Debug\net9.0\ref\Listy i STOS.dll

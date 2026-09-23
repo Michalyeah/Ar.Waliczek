@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\4 tydzien z 34\\23.09.2026\\StosHistorii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF9553C-CDB1-498F-858B-AD01D457E53E}|StosHistorii\\StosHistorii.csproj|c:\\users\\programista\\documents\\3at\\ar.waliczek\\4 tydzien z 34\\23.09.2026\\stoshistorii\\stoshistorii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF9553C-CDB1-498F-858B-AD01D457E53E}|StosHistorii\\StosHistorii.csproj|solutionrelative:stoshistorii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\4 tydzien z 34\\23.09.2026\\StosHistorii\\StosHistorii\\Program.cs",
+              "RelativeDocumentMoniker": "StosHistorii\\Program.cs",
+              "ToolTip": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\4 tydzien z 34\\23.09.2026\\StosHistorii\\StosHistorii\\Program.cs",
+              "RelativeToolTip": "StosHistorii\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:10:15.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
