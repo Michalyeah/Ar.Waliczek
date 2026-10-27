@@ -6,3 +6,7 @@ Class Programista : Pracownik
 słowo kluczowe base - służy do wywołania konstruktora lub metody klasy bazowej z poziomu klasy pochodnej
 
 Modyfikator virtual - oznaczona nim metoda w klasie bazowej sygnalizuje ,że może (ale nie musi)zostać zmodyfikowana w klasie potomnej
+
+Modyfikator override - informuje kompilator ze swiadomie nadpisujemy metody virtualne 
+
+Dziedziczenie pojedyncze - ze c# może dziedziczyć tylko po 1 klasie
