@@ -1,0 +1,8 @@
+Dziedziczenie
+
+Dwukropek : to operator służący do definiowania dziedziczenia w c#
+Class Programista : Pracownik
+
+słowo kluczowe base - służy do wywołania konstruktora lub metody klasy bazowej z poziomu klasy pochodnej
+
+Modyfikator virtual - oznaczona nim metoda w klasie bazowej sygnalizuje ,że może (ale nie musi)zostać zmodyfikowana w klasie potomnej

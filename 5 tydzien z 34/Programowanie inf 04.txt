@@ -1,0 +1,19 @@
+Programowanie inf 04
+App Console:xD
+
+Logika(logika biznesowa) - wytwarzanie kodu i zadania, algorytmika, logicznym myśleniem
+
+Umijętność tworzenia Dokumentacji(screen,komentarze//,/**/[wg. wzoru])
+
+Wykonywanie testów kodu(MSTEST,UNITEST,Testy Jednostkowe)
+
+MSTEST
+public static void Ek(int m, int v){}; nie potsetujemy na tym bo nic nie zwraca;
+public static double Ek(int m, int v){};
+
+
+Typy Jednostkowe AAA(Arrange, Act, Assent) - tylko robić kiedy pracuje się na 2 projektach naraz(ProjectApp,ProjectAppTest);
+Arrange(organizacja kodu,przygotowanie kodu(dane wejściowe)); Act(odwołanie do metody);
+Assent(testowanie kodu)
+
+CollectionAssent - 

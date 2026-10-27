@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\5 tydzien z 34\\Ek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5517C33-D41D-462E-BFFD-42D4FC832583}|Ek.Test\\Ek.Test.csproj|c:\\users\\programista\\documents\\3at\\ar.waliczek\\5 tydzien z 34\\ek\\ek.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5517C33-D41D-462E-BFFD-42D4FC832583}|Ek.Test\\Ek.Test.csproj|solutionrelative:ek.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EA01F0-8AA6-402F-8901-155BE750D11D}|Ek\\Ek.csproj|c:\\users\\programista\\documents\\3at\\ar.waliczek\\5 tydzien z 34\\ek\\ek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EA01F0-8AA6-402F-8901-155BE750D11D}|Ek\\Ek.csproj|solutionrelative:ek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\5 tydzien z 34\\Ek\\Ek.Test\\Test1.cs",
+              "RelativeDocumentMoniker": "Ek.Test\\Test1.cs",
+              "ToolTip": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\5 tydzien z 34\\Ek\\Ek.Test\\Test1.cs",
+              "RelativeToolTip": "Ek.Test\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:10:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\5 tydzien z 34\\Ek\\Ek\\Program.cs",
+              "RelativeDocumentMoniker": "Ek\\Program.cs",
+              "ToolTip": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\5 tydzien z 34\\Ek\\Ek\\Program.cs",
+              "RelativeToolTip": "Ek\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:52:31.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

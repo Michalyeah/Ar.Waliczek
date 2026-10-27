@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\7 tydzien z 34\\Zadanko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC360D4A-4DC5-4DD2-B869-E4CD27A175A8}|Zadanko\\Zadanko.csproj|c:\\users\\programista\\documents\\3at\\ar.waliczek\\7 tydzien z 34\\zadanko\\zadanko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC360D4A-4DC5-4DD2-B869-E4CD27A175A8}|Zadanko\\Zadanko.csproj|solutionrelative:zadanko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\7 tydzien z 34\\Zadanko\\Zadanko\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanko\\Program.cs",
+              "ToolTip": "C:\\Users\\programista\\Documents\\3AT\\Ar.Waliczek\\7 tydzien z 34\\Zadanko\\Zadanko\\Program.cs",
+              "RelativeToolTip": "Zadanko\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T07:54:10.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

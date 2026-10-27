@@ -1,0 +1,5 @@
+Krok 1 - Utworzenie bazy danych jeden do n
+krok 2 - Utworzenie 2 tabel : Klient, Towary
+Krok 3 - Utworzenie zapytania w relacji 1 do wielu 
+Krok 4 - Połączenie do bazy 
+Krok 5 - Strona php.
